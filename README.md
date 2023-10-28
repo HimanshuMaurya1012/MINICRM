@@ -13,38 +13,38 @@ Designed the miniCrm web app using:
 
 ## Screenshots
   - SignUp.<br><br><br>
-    ![index](https://github.com/pradyneel/MiniCRM/blob/main/images/signup.png)
+    ![index](https://github.com/HimanshuMaurya1012/miniCRM/blob/main/images/signup.png)
     <br>
     
   - SignIn.<br><br><br>
-    ![index](https://github.com/pradyneel/MiniCRM/blob/main/images/login.png)
+    ![index](https://github.com/HimanshuMaurya1012/miniCRM/blob/main/images/login.png)
     <br>
     
     
    - Home.<br><br><br>
-    ![index](https://github.com/pradyneel/MiniCRM/blob/main/images/home.png)
+    ![index](https://github.com/HimanshuMaurya1012/miniCRM/blob/main/images/home.png)
     <br>
     
     
    - Contact.<br><br><br>
-    ![index](https://github.com/pradyneel/MiniCRM/blob/main/images/contact.png)
+    ![index](https://github.com/HimanshuMaurya1012/miniCRM/blob/main/images/contact.png)
     <br>
     
     
    - Add Contact.<br><br><br>
-    ![index](https://github.com/pradyneel/MiniCRM/blob/main/images/addcontact.png)
+    ![index](https://github.com/HimanshuMaurya1012/miniCRM/blob/main/images/contact.png)
     <br>
     
    - Message.<br><br><br>
-    ![index](https://github.com/pradyneel/MiniCRM/blob/main/images/mail.png)
+    ![index](https://github.com/HimanshuMaurya1012/miniCRM/blob/main/images/mail.png)
     <br>
     
    - Task.<br><br><br>
-    ![index](https://github.com/pradyneel/MiniCRM/blob/main/images/task.png)
+    ![index](https://github.com/HimanshuMaurya1012/miniCRM/blob/main/images/task.png)
     <br>
     
    - AddTask.<br><br><br>
-    ![index](https://github.com/pradyneel/MiniCRM/blob/main/images/addtask.png)
+    ![index](https://github.com/HimanshuMaurya1012/miniCRM/blob/main/images/addtask.png)
     <br>
     
 ## Preview Link:-http://crmmini.azurewebsites.net/
